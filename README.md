@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning HTML CSS JS
 - 👯 I’m looking to collaborate on web sites!
 - 🤔 I’m looking for help with tecnologic
-- 💬 Ask me about anything
-- 📫 How to reach me: cmatrix#6535
 - 😄 Pronouns: he/him
 
 
