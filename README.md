@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Bash
 - 👯 I’m looking to collaborate on web sites!
 - 🤔 I’m looking for help with tecnologic
-- 😄 Pronouns: he/him
 
 
  
